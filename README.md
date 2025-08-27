@@ -1,58 +1,53 @@
-# 👋 Olá, sou Sargento Siqueira!
+# 👋 Hello, I'm Vinicius Siqueira!
 
-## 🚀 Sobre Mim
-- 💻 **Sargento do Exército Brasileiro** e **CEO da VinnAI** com **experiência em automação e IA**
-- 🛠️ Especializado em **Automação Inteligente**, **Python**, **n8n**, e **Integração de Sistemas**
-- 🌟 Apaixonado por democratizar a IA para empresas de todos os portes
-- ⚡ Fato interessante: Transformo processos complexos em soluções simples e acessíveis
+## 🚀 About Me
+- 💻 **CEO of VinnAI** with **experience in automation and AI**
+- 🛠️ Specialized in **Intelligent Automation**, **Python**, **n8n**, and **System Integration**
+- 🌟 Passionate about democratizing AI for businesses of all sizes
 
 ---
 
 ## 🛠️ Tech Stack
-### 🔧 Linguagens & Ferramentas
-- **Linguagens**: Python, JavaScript, HTML, CSS
-- **Automação**: n8n, Make (Integromat), Zapier
-- **Ferramentas**: Git, APIs REST, Web Scraping, Chatbots
-- **IA & ML**: OpenAI, Anthropic Claude, GPT, Automação Inteligente
-- **Integrações**: WhatsApp Business API, Google Sheets, CRM Systems
+### 🔧 Languages & Tools
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Automation**: n8n, Make (Integromat), Zapier
+- **Tools**: Git, REST APIs, Web Scraping, Chatbots
+- **AI & ML**: OpenAI, Anthropic Claude, GPT, Intelligent Automation
+- **Integrations**: WhatsApp Business API, Google Sheets, CRM Systems
 
-### 🚀 O Que Faço
-- Desenvolvo **soluções de automação personalizadas** para negócios de todos os tamanhos
-- Crio **sistemas de IA acessíveis** que funcionam sem conhecimento técnico
-- Implemento **integrações inteligentes** entre sistemas existentes
-- Construo **chatbots e assistentes virtuais** para atendimento 24/7
-
----
-
-## 🏢 VinnAI - IA ao Alcance do Seu Negócio
-
-### 📋 Principais Serviços
-- 🤖 **Automatização Descomplicada**: Tarefas repetitivas em piloto automático
-- 🧠 **IA Personalizada**: Sistemas que aprendem e se adaptam ao seu negócio
-- 📱 **Criação de Conteúdo**: Posts automáticos e marketing inteligente
-- 🔗 **Integração de Sistemas**: WhatsApp + Planilhas + CRMs trabalhando juntos
-- 💻 **Desenvolvimento**: Sites, Apps, Dashboards BI e Chatbots
-
-### 🎯 Diferenciais
-- ✅ **Simplicidade**: Você não precisa saber nada de tecnologia
-- ⏱️ **Economia de Tempo**: Processos de horas transformados em minutos
-- 🎯 **Foco no Essencial**: IA cuida da rotina, você foca no crescimento
-- 🔄 **Adaptabilidade**: Soluções que se moldam à realidade do seu negócio
+### 🚀 What I Do
+- Develop **custom automation solutions** for businesses of all sizes
+- Create **accessible AI systems** that work without technical knowledge
+- Implement **intelligent integrations** between existing systems
+- Build **chatbots and virtual assistants** for 24/7 customer service
 
 ---
 
-## 🌟 Experiência & Resultados
-- 🏆 **2+ anos** ajudando empresas a automatizar processos
-- 🌍 Impactando negócios em **diversos setores** (varejo, serviços, indústria)
-- 🤖 Especialista em tornar **IA complexa** em **soluções práticas**
+## 🏢 VinnAI - AI Within Your Business Reach
+
+### 📋 Main Services
+- 🤖 **Simplified Automation**: Repetitive tasks on autopilot
+- 🧠 **Personalized AI**: Systems that learn and adapt to your business
+- 📱 **Content Creation**: Automatic posts and intelligent marketing
+- 🔗 **System Integration**: WhatsApp + Spreadsheets + CRMs working together
+- 💻 **Development**: Websites, Apps, BI Dashboards and Chatbots
+
+### 🎯 Differentials
+- ✅ **Simplicity**: You don't need to know anything about technology
+- ⏱️ **Time Savings**: Hour-long processes transformed into minutes
+- 🎯 **Focus on Essentials**: AI handles routine, you focus on growth
+- 🔄 **Adaptability**: Solutions that adapt to your business reality
 
 ---
 
-## 🌐 Vamos Conectar!
+## 🌟 Experience & Results
+- 🏆 **2+ years** helping companies automate processes
+- 🌍 Impacting businesses in **various sectors** (retail, services, industry)
+- 🤖 Specialist in turning **complex AI** into **practical solutions**
+
+---
+
+## 🌐 Let's Connect!
 [![VinnAI](https://img.shields.io/badge/VinnAI-%23FF6B35.svg?style=for-the-badge&logo=robot)](https://vinnai.tech)  
 [![Email](https://img.shields.io/badge/Email-contato@vinnai.tech-%23EA4335.svg?style=for-the-badge&logo=gmail)](mailto:contato@vinnai.tech)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2071%2098122--6491-%2325D366.svg?style=for-the-badge&logo=whatsapp)](https://wa.me/5571981226491)
-
----
-
-### 💡 "IA não é coisa de filme - é uma ferramenta real para melhorar seu negócio hoje!"
